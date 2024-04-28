@@ -14,7 +14,7 @@
 
 <h2> Finde me around the web 🌍</h2>
 - <i>Dev.to</i> [dev.to/lluistech](https://dev.to/lluistech)
-- <i>Mastodon</i> [@lluistech@techtoots.com](@lluistech@techtoots.com)
+- <i>Mastodon</i> [@lluistech@techtoots.com](https://techtoots.com/@lluistech)
 
 
 <!--
