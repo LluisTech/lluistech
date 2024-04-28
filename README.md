@@ -10,9 +10,10 @@
 - Python
 - Linux
 - Git 
-- Docke
+- Docker
 
 <h2> Finde me around the web 🌍</h2>
+[Dev.to (https://dev.to/lluistech) (Spanish blog)]
 
 - <i>Dev.to</i> https://dev.to/lluistech (Spanish blog)
 - <i>Mastodon</i> https://techtoots.com/@lluistech
