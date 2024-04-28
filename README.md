@@ -12,9 +12,6 @@
 - Git 
 - Docker
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h2> Finde me around the web 🌍</h2>
 - <i>Dev.to</i> https://dev.to/lluistech (Spanish)
