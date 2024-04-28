@@ -13,8 +13,8 @@
 - Docker
 
 <h2> Finde me around the web 🌍</h2>
-- <i>Dev.to</i> <https://dev.to/lluistech>
-- <i>Mastodon</i> <https://techtoots.com/@lluistech
+- <i>Dev.to</i> https://dev.to/lluistech
+- <i>Mastodon</i> https://techtoots.com/@lluistech
 
 
 <!--
