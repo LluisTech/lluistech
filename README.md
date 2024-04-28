@@ -7,8 +7,7 @@
 
  <h2>💻 I'm currently learning</h2>
 
-- Python ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
-
+- Python
 - Linux
 - Git 
 - Docker
