@@ -13,7 +13,7 @@
 - Docker
 
 
-<h2> Finde me around the web 🌍</h2>
+<h2> Find me around the web 🌍</h2>
 - <i>Dev.to</i> https://dev.to/lluistech (Spanish)
 - <i>Mastodon</i> https://techtoots.com/@lluistech
 
