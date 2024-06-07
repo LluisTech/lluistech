@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>I'm Lluís Camell</h1>
+# Hi,  I'm Lluís Camell 👋
 - <i>Lifelong learning. </i> Immersing myself in the world of programming at 40's. Why not?
 
 - Step by step I will learn how to improve in all aspects, this readme is not perfect, but it's a fresh start.
@@ -12,8 +10,9 @@
 - Git 
 - Docker
 
+## Find me around the web 🌍
 
-<h2> Find me around the web 🌍</h2>
+<h2> Finde me around the web 🌍</h2>
 - <i>Dev.to</i> https://dev.to/lluistech (Spanish)
 - <i>Mastodon</i> https://techtoots.com/@lluistech
 
