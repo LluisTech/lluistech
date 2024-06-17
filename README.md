@@ -5,7 +5,7 @@
 
  <h2>💻 I'm currently learning</h2>
 
-- Python
+- Java
 - Linux
 - Git 
 - Docker
