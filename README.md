@@ -11,7 +11,7 @@
 - Docker
 
 <h2> Finde me around the web 🌍</h2>
-- <i>Bluesky</i> https://bsky.app/
+- <i>Bluesky</i> @lluiscamell.bsky.social
 
 
 
